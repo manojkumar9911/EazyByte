@@ -3,7 +3,7 @@
 
 ## About the Project
 
-[Vanhack](#Vanhack) send all applicants challenges through [HackerRank](#HackerRank) in order to verify their coding skills. This specific challende was to make a calendar app. The calendar should display all the dates for the current month. The calendar app should also be able to mark appointments. The app must have the following functionality:
+This specific website was to make a calendar app. The calendar should display all the dates for the current month. The calendar app should also be able to mark appointments. The app must have the following functionality:
 
 - Any appointment can be made for the current day or for a future date.
 - No two appointments should overlap. If an appointment already exists for a day, a warning should be shown.
@@ -11,7 +11,7 @@
 
 ## How to
 
-To run this project you just have to [clone](https://help.github.com/articles/cloning-a-repository/) this repo in your desired folder and access the index file.
+To run this project you just have to [clone](https://help.github.com/articles/cloning-a-repository/) this repo in your desired folder and access the index file and open with live server.
 
 ## Technologies used in this project
 
@@ -30,7 +30,7 @@ To run this project you just have to [clone](https://help.github.com/articles/cl
 
 <p align="center"><img src="assets/vanhack.png" width="120"></p>
 
-> VanHack is a network of the world’s top software engineering, design, and digital marketing talent - available on demand to relocate to help companies grow. With over 180,000 members from 73 countries, VanHack is the largest workforce that is ready to relocate in the world.
+> This is an appointment website in which user can book an appointment to meet java developer.
 
 visit their website [here](https://www.vanhack.com)
 
