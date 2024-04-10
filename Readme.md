@@ -1,4 +1,4 @@
-<h1 align="center"> Calendar Appointments </h1>
+<h1 align="center"> Appointments Management </h1>
 <p align="center"><img src="https://png.icons8.com/color/overtime/120"></p>
 
 ## About the Project
